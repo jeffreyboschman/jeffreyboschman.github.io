@@ -2146,21 +2146,6 @@ input, select, textarea {
 				width: 100%;
 			}
         
-        /* added by me*/
-        .image.appropriate {
-            display: block;
-            margin: 0 0 2em 0;
-            width: 100%;
-        }
-            
-            .image.appropriate:before {
-                display: none;
-            }
-
-            .image.appropriate img {
-                width: 100%;
-            }
-
 /* List */
 
 	ol {
