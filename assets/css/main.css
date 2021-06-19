@@ -2129,10 +2129,6 @@ input, select, textarea {
 			width: 100%;
 		}
 
-            .image.fit:before {
-                display: none;
-            }
-
 			.image.fit img {
 				width: 100%;
 			}
@@ -2151,15 +2147,15 @@ input, select, textarea {
 			}
         
         /* added by me*/
-        .image.fit2 {
+        .image.appropriate {
             width: 100%;
         }
             
-            .image.fit2:before {
+            .image.appropriate:before {
                 display: none;
             }
 
-            .image.fit2 img {
+            .image.appropriate img {
                 width: 100%;
             }
 
