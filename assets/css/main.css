@@ -2148,6 +2148,8 @@ input, select, textarea {
         
         /* added by me*/
         .image.appropriate {
+            display: block;
+            margin: 0 0 2em 0;
             width: 100%;
         }
             
