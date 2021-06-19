@@ -2124,7 +2124,7 @@ input, select, textarea {
 			}
 
 		.image.fit {
-		    display: block;
+			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
 		}
@@ -2145,7 +2145,7 @@ input, select, textarea {
 				border-radius: 100%;
 				width: 100%;
 			}
-        
+
 /* List */
 
 	ol {
@@ -2289,7 +2289,7 @@ input, select, textarea {
 		ul.actions.fit {
 			width: calc(100% + 1em);
 		}
-            
+
 			ul.actions.fit li {
 				-moz-flex-grow: 1;
 				-webkit-flex-grow: 1;
@@ -2309,7 +2309,7 @@ input, select, textarea {
 			ul.actions.fit.stacked {
 				width: 100%;
 			}
-            
+
 		@media screen and (max-width: 480px) {
 
 			ul.actions:not(.fixed) {
@@ -2490,7 +2490,7 @@ input, select, textarea {
 			.button.icon:before {
 				margin-right: 0.5em;
 			}
-        
+
 		input[type="submit"].fit,
 		input[type="reset"].fit,
 		input[type="button"].fit,
@@ -2498,7 +2498,7 @@ input, select, textarea {
 			min-width: 0;
 			width: 100%;
 		}
-        
+
 		input[type="submit"].small,
 		input[type="reset"].small,
 		input[type="button"].small,
