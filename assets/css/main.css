@@ -2064,7 +2064,7 @@ input, select, textarea {
 		.image.thumb {
 			text-align: center;
 		}
-/*
+
 			.image.thumb:after {
 				-moz-transition: opacity 0.2s ease-in-out;
 				-webkit-transition: opacity 0.2s ease-in-out;
@@ -2097,7 +2097,7 @@ input, select, textarea {
 				background: url("images/overlay.png"), url("images/overlay.png");
 				opacity: 1.0;
 			}
-*/
+
 		.image img {
 			border-radius: 0.35em;
 			display: block;
@@ -2304,7 +2304,7 @@ input, select, textarea {
 		ul.actions.fit {
 			width: calc(100% + 1em);
 		}
-            /*
+            
 			ul.actions.fit li {
 				-moz-flex-grow: 1;
 				-webkit-flex-grow: 1;
@@ -2324,7 +2324,7 @@ input, select, textarea {
 			ul.actions.fit.stacked {
 				width: 100%;
 			}
-            */
+            
 		@media screen and (max-width: 480px) {
 
 			ul.actions:not(.fixed) {
@@ -2505,7 +2505,7 @@ input, select, textarea {
 			.button.icon:before {
 				margin-right: 0.5em;
 			}
-        /*
+        
 		input[type="submit"].fit,
 		input[type="reset"].fit,
 		input[type="button"].fit,
@@ -2513,7 +2513,7 @@ input, select, textarea {
 			min-width: 0;
 			width: 100%;
 		}
-        */
+        
 		input[type="submit"].small,
 		input[type="reset"].small,
 		input[type="button"].small,
