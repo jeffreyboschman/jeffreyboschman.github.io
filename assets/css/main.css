@@ -2149,6 +2149,19 @@ input, select, textarea {
 				border-radius: 100%;
 				width: 100%;
 			}
+        
+        /* added by me*/
+        .image.fit2 {
+            width: 100%;
+        }
+            
+            .image.fit2:before {
+                display: none;
+            }
+
+            .image.fit2 img {
+                width: 100%;
+            }
 
 /* List */
 
