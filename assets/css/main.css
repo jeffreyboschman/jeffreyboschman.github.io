@@ -230,7 +230,7 @@ input, select, textarea {
 		}
 
 	.align-left {
-		text-align: left;
+		float: left;
 	}
 
 	.align-center {
@@ -238,7 +238,7 @@ input, select, textarea {
 	}
 
 	.align-right {
-		text-align: right;
+		float: right;
 	}
 
 /* Container */
